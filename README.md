@@ -11,3 +11,17 @@
 Enjoy.
 
 source video : https://www.userchrome.org/how-create-userchrome-css.html
+
+
+---
+
+
+If you want to edit directly in your browser you need to use Firefox Developer Edition
+
+Check the settings :
+- “`Enable browser chrome and add-on debugging toolboxes`”
+- “`Enable remote debugging`”
+
+And then use `ctrl`+`shift`+`alt`+`I`
+
+https://firefox-source-docs.mozilla.org/devtools-user/browser_toolbox/index.html
